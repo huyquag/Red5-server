@@ -12,8 +12,17 @@ Demo Flutter live-streaming app use Red5-server (Code)
 
 ## 1 Software Requirement Specification
  - Introduction
+ 
+Introducing the Red5Pro server and its applications
+ 
  - System Requirements
+ 
+ State the system requirements
+ 
  - Security Requirements
+ 
+ Security issues and security practices
+ 
  - Use cases
  - Database access
  - Database modeling
