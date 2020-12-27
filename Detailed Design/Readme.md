@@ -1,5 +1,4 @@
 # Sequence Diagram
-Start drawing diagram at "https://draw.io/" 
 
 This sequence diagram show you how the app working 
 
