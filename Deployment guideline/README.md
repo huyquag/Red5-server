@@ -1,5 +1,3 @@
-# DEPLOYMENT GUIDELINE
-
 Here's how to install Flutter (Dark) and Red5Pro (the server for livestreaming) in detail.
 
 ## RED5PRO
