@@ -16,6 +16,10 @@ Demo Flutter live-streaming app use Red5-server (Code)
 
 ## 3 Detailed Design
 
+UI Flutter
+
+![UI](https://user-images.githubusercontent.com/74059634/103166508-401d1580-4855-11eb-9d63-e8dd2271b14a.png)
+
 ## 4 Deployment guideline
 
 This will be a preliminary introduction to Red5Pro as well as Flutter, the hardware requirements, the system to use them. Next to that are the ways to install Red5Pro and Flutter.
