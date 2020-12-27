@@ -11,9 +11,17 @@ Demo Flutter live-streaming app use Red5-server (Code)
 (Use Flutter to build live-streaming apps using the Red5 Pro server)
 
 ## 1 Software Requirement Specification
+ - Introduction
+ - System Requirements
+ - Security Requirements
+ - Use cases
+ - Database access
+ - Database modeling
 
 ## 2 Architecture Design
-
+ - Server
+ - WebAdmin
+ - Client
 ## 3 Detailed Design
 
 ### UI Flutter
