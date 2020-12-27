@@ -2,7 +2,9 @@
 Start drawing diagram at "https://draw.io/" 
 
 This sequence diagram show you how the app working 
+
 At the first sequence : Show how the connection between server and client ( how it transcoder the data )
+
 With the second sequence : Show what user can do with the app and how app will response to server
 
 ## 3. Detailed Design
