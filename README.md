@@ -16,7 +16,7 @@ Demo Flutter live-streaming app use Red5-server (Code)
 
 ## 3 Detailed Design
 
-UI Flutter
+### UI Flutter
 
 ![UI](https://user-images.githubusercontent.com/74059634/103166508-401d1580-4855-11eb-9d63-e8dd2271b14a.png)
 
