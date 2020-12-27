@@ -35,6 +35,8 @@ Introducing the Red5Pro server and its applications
 
 ### Class Diagram
 
+https://user-images.githubusercontent.com/74059634/103170917-98b2d980-487a-11eb-8da8-3f6748f8b2ff.png
+
 ### Sequence Diagram
 
 Describes the functionalities and interactions between the Red5Pro users and the server
