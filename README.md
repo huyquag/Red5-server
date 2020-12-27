@@ -10,6 +10,17 @@ Study tool Red 5 at "https://www.red5pro.com/open-source/" to make:
 Demo Flutter live-streaming app use Red5-server (Code)
 (Use Flutter to build live-streaming apps using the Red5 Pro server)
 
+## 1 Software Requirement Specification
+
+## 2 Architecture Design
+
+## 3 Detailed Design
+
+## 4 Deployment guideline
+
+This will be a preliminary introduction to Red5Pro as well as Flutter, the hardware requirements, the system to use them. Next to that are the ways to install Red5Pro and Flutter
+
+
 
 
 
