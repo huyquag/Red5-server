@@ -38,6 +38,7 @@ Introducing the Red5Pro server and its applications
 ### Sequence Diagram
 
 Describes the functionalities and interactions between the Red5Pro users and the server
+
 See detailed details in the Detailed Design folder
 
 ### UI Flutter
