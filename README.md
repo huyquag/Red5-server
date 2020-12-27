@@ -7,9 +7,6 @@ Study tool Red 5 at "https://www.red5pro.com/open-source/" to make:
 4) Deployment guideline. (Introduction and install of Fullter and Red5Pro-file word)
 5) Development guideline.
 
-Demo Flutter live-streaming app use Red5-server (Code)
-(Use Flutter to build live-streaming apps using the Red5 Pro server)
-
 ## 1. Software Requirement Specification
  - Introduction
  
@@ -58,7 +55,8 @@ In this content, we briefly introduce Flutter, Red5Pro. We also put up their 2 w
 
 ## 5. Development guideline
 
-Demo code...
+Demo code... Demo Flutter live-streaming app use Red5-server (Code)
+(Use Flutter to build live-streaming apps using the Red5 Pro server)
 
 
 
