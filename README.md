@@ -27,7 +27,7 @@ In this content, we briefly introduce Flutter, Red5Pro. We also put up their 2 w
  - Red5Pro: https://www.red5pro.com/open-source/
  - Flutter: https://flutter.dev/
  
- Sequential steps to install them
+ Sequential steps to install them, you can read document (Word file)
 
 
 
