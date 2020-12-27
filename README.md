@@ -18,7 +18,12 @@ Demo Flutter live-streaming app use Red5-server (Code)
 
 ## 4 Deployment guideline
 
-This will be a preliminary introduction to Red5Pro as well as Flutter, the hardware requirements, the system to use them. Next to that are the ways to install Red5Pro and Flutter
+This will be a preliminary introduction to Red5Pro as well as Flutter, the hardware requirements, the system to use them. Next to that are the ways to install Red5Pro and Flutter.
+In this content, we briefly introduce Flutter, Red5Pro. We also put up their 2 website links
+ - Red5Pro: https://www.red5pro.com/open-source/
+ - Flutter: https://flutter.dev/
+Sequential steps to install them
+
 
 
 
