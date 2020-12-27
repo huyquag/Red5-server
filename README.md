@@ -22,7 +22,7 @@ This will be a preliminary introduction to Red5Pro as well as Flutter, the hardw
 In this content, we briefly introduce Flutter, Red5Pro. We also put up their 2 website links
  - Red5Pro: https://www.red5pro.com/open-source/
  - Flutter: https://flutter.dev/
-Sequential steps to install them
+ Sequential steps to install them
 
 
 
