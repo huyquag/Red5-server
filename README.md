@@ -33,6 +33,13 @@ Introducing the Red5Pro server and its applications
  - Client
 ## 3. Detailed Design
 
+### Class Diagram
+
+### Sequence Diagram
+
+Describes the functionalities and interactions between the Red5Pro users and the server
+See detailed details in the Detailed Design folder
+
 ### UI Flutter
 
 ![UI](https://user-images.githubusercontent.com/74059634/103166508-401d1580-4855-11eb-9d63-e8dd2271b14a.png)
@@ -46,6 +53,9 @@ In this content, we briefly introduce Flutter, Red5Pro. We also put up their 2 w
  
  Sequential steps to install them, you can read document (Word file)
 
+## 5. Development guideline
+
+Demo code...
 
 
 
