@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "194446604649",
+    "firebase_url": "https://my-store-295001.firebaseio.com",
+    "project_id": "my-store-295001",
+    "storage_bucket": "my-store-295001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194446604649:android:23eb4b51e3154d2baf65f8",
+        "android_client_info": {
+          "package_name": "com.memo.mystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194446604649-s4r6vdi2ds778g4bjfbbdfviunnl4t3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj0AILMVsilAaqeHVX1drALUjC6QgRu1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194446604649-s4r6vdi2ds778g4bjfbbdfviunnl4t3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194446604649:android:87d38f7a3d90f6bfaf65f8",
+        "android_client_info": {
+          "package_name": "com.memo.mystores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194446604649-669d8bkdr03iq2oot2kl3n3vq0lfvkqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memo.mystores",
+            "certificate_hash": "91910a57bd25b3f23775f847e2ebb31953c7a8e0"
+          }
+        },
+        {
+          "client_id": "194446604649-s4r6vdi2ds778g4bjfbbdfviunnl4t3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj0AILMVsilAaqeHVX1drALUjC6QgRu1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194446604649-s4r6vdi2ds778g4bjfbbdfviunnl4t3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
